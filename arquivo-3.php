@@ -1,0 +1,3 @@
+<?php
+# Arquivo 3
+?>
